@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Chew.com">
+	<test name="TestChewdotcom">
+		<classes>
+			<class name="com.chew.qa.Testcases.VerifySearchfunctionality"></class>
+			<class name="com.chew.qa.Testcases.VerifySearchBySKU"></class>
+		</classes>
+	</test>
+</suite>
